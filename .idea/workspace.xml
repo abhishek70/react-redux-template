@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e69f6fa-d513-45d4-9879-aae320d1698d" name="Default Changelist" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5e69f6fa-d513-45d4-9879-aae320d1698d" name="Default Changelist" comment="Initial commit" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572830878931</updated>
       <workItem from="1572830893960" duration="572000" />
-      <workItem from="1572832031252" duration="9018000" />
+      <workItem from="1572832031252" duration="9285000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1572848180361</created>
